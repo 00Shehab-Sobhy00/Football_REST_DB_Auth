@@ -1,10 +1,10 @@
 # Football_REST_DB
 
-    •	Only the default admin can create the league and its league manager.
-    •	Only the league manager can create referees, create team, and create a coach to team.
-    •	Only the coach can add players to his assigned team.
-    •	Only the referee can create a match between two teams.
-    •	Anyone should be able to access the match result and related info 
+    •Only the default admin can create the league and its league manager.
+    •Only the league manager can create referees, create team, and create a coach to team.
+    •Only the coach can add players to his assigned team.
+    •Only the referee can create a match between two teams.
+    •Anyone should be able to access the match result and related info 
  
      1- leagues api 
      
